@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+#container{
+    border: 1px solid black;
+    height: 85vh;
+    width: 90%;
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+.containerBox{
+    /* display: inline-flex; */
+    float: left;
+    border: 1px solid red;
+    height: 72vh;
+}
+.showcase{
+    width: 60%;
+    position: relative;
+}
+.carouselButton{
+    width: 35px;
+    height: 35px;
+}
+.left{
+    position: absolute;
+    left: 10px;
+    top: 50%;
+}
+.right{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+}
+.showData{
+    width: 40%;
+}
+#buttonsContainer{
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+}
+.boardButton{
+    border: 1px solid;
+    width: 20%;
+    height: 25px;
+}

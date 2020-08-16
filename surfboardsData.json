@@ -1,0 +1,57 @@
+[
+    {"id": 1,
+        "boardType":"longboard", 
+        "data": [
+        {"speed": "cruise",
+        "feet": "8 - 10",
+        "skill": "beginner",
+        "wave-size": "work best in 1-3 foot waves"
+    }],
+        "boards": [
+
+    ]},
+    {"id": 2,
+        "boardType":"funboard",
+        "data": [
+            {"speed": "cruise - swoosh",
+            "feet": "6 - 8",
+            "skill": "beginner to intermediate",
+            "wave-size": "work best in 2 - overhead waves"
+            }],
+        "boards": [
+
+    ]},
+    {"id": 3,
+        "boardType":"shortboard", 
+        "data": [
+            {"speed": "fast",
+            "size": "5 - 7",
+            "skill": "intermediate to expert",
+            "wave-size": "work best in 3 - triple overhead"
+            }], 
+        "boards": [
+
+    ]},
+    {"id": 4,
+        "boardType":"fish", 
+        "data": [
+            {"speed": "swoosh",
+            "size": "5 - 7",
+            "skill": "intermediate",
+            "wave-size": "work best in 2 - 6"
+            }],
+        "boards": [
+
+        ]},
+    {"id": 5,
+        "boardType":"gun", 
+        "data": [
+            {"speed": "super-fast",
+            "size": "7 - 12",
+            "skill": "expert",
+            "wave-size": "biggest waves"
+            }],
+        "boards": [
+
+    ]}
+];
